@@ -70,7 +70,7 @@ class SnapTimePickerDialog : BaseSnapTimePickerDialogFragment() {
         private const val EXTRA_BUTTON_TEXT_ALL_CAPS = "com.akexorcist.snaptimepicker.button_text_all_caps"
         private const val EXTRA_TIME_INTERVAL = "com.akexorcist.snaptimepicker.time_interval"
         private const val MIN_HOUR = 0
-        private const val MAX_HOUR = 23
+        private const val MAX_HOUR = 100
         private const val MIN_MINUTE = 0
         private const val MAX_MINUTE = 59
         private const val MINUTE_IN_HOUR = 60
